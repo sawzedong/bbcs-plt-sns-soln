@@ -1,4 +1,4 @@
-# BuildingBloCs March Conference: Introduction to Matplotlib and Seaborn
+# BuildingBloCs March Conference: Introduction to Matplotlib and Seaborn: Solutions
 
 - This repository contains all relevant information needed to participate in the 2-hour long course.
 
